@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="work_01_ReactClientApp/work_01_reactclientapp.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
